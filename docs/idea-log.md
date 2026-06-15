@@ -1,4 +1,4 @@
-###Idea 1
+### Idea 1
 
 ### Problem Area
 University students frequently need short-term access to specialized tools (like DSLR cameras, Arduino kits, graphing calculators, or textbook editions) or quick help (like video editing or lab setup assistance), but buying them new is expensive and finding someone to help is chaotic.
