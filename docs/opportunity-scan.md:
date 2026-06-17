@@ -3,29 +3,13 @@
 ## Ideas Reviewed from Lab 1
 
 | Idea | Problem Area | Target User | Current Alternative | Initial Technology Direction |
-|---|---|---|---|---|
-| Idea 1 | | | | |
-| Idea 2 | | | | |
-| Idea 3 | | | | |
+|------|-------------|-------------|---------------------|-----------------------------|
+| Idea 1 | Campus Lost & Found | University Students | Facebook Groups, Security Office | React + Supabase |
+| Idea 2 | Student Deadline Reminder Dashboard | University Students | Notes App, Calendar | HTML/CSS/JS + Firebase |
+| Idea 3 | Access to academic tools, equipment, and student services | University Students and Campus Club Members | Facebook Groups, Discord Servers, Personal Networks | React + Supabase |
 
 ## Opportunity Discovery Table
 
 | No. | Observed Problem | Target User | Current Alternative | Possible IT Solution | Feasible Technology |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-
-## Technology Feasibility Mapping
-
-| Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
-|---|---|---|---|---|---|
-| Idea 1 | | | | Low / Medium / High | Yes / No |
-| Idea 2 | | | | Low / Medium / High | Yes / No |
-| Idea 3 | | | | Low / Medium / High | Yes / No |
-| Idea 4 | | | | Low / Medium / High | Yes / No |
-| Idea 5 | | | | Low / Medium / High | Yes / No |
-| Idea 6 | | | | Low / Medium / High | Yes / No |
+|------|-----------------|-------------|---------------------|---------------------|---------------------|
+| 1 | Students lose personal items on campus and struggle to recover them | University Student...
